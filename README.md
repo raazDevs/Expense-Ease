@@ -17,7 +17,7 @@ To get started with the Expense Tracker application, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/PARADOX-12/Expanse-Ease.git
+https://github.com/raazDevs/Expense-Ease.git
 
 
 2. Install dependencies:
